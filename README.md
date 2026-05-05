@@ -1,10 +1,10 @@
-# 📋 Student Information System — Version 1
+# Student Information System — Version 1
 
 A desktop-based Student Information System (SSIS) built with Python and Tkinter, using CSV files for data storage. This is the first version of the system, focusing on core CRUDL functionality for managing students, programs, and colleges.
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -14,7 +14,7 @@ A desktop-based Student Information System (SSIS) built with Python and Tkinter,
 
 ---
 
-## ✨ Features
+## Features
 
 - **Student Management** — Create, Read, Update, Delete, and List student records
 - **Program Management** — Manage academic programs (e.g., BSCS, BSIT)
@@ -26,7 +26,7 @@ A desktop-based Student Information System (SSIS) built with Python and Tkinter,
 
 ---
 
-## 🗃️ Data Structure
+## Data Structure
 
 ### Student (`student_data.csv`)
 | Field | Description |
@@ -54,7 +54,7 @@ A desktop-based Student Information System (SSIS) built with Python and Tkinter,
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.x
@@ -75,7 +75,7 @@ python Main/151project.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SSIS_V1/
@@ -89,7 +89,7 @@ SSIS_V1/
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This is **Version 1** — data is stored in flat CSV files, no database used
 - See [SSIS_V2](https://github.com/aeron-j/SSIS_V2) for the improved MySQL version
@@ -97,6 +97,6 @@ SSIS_V1/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aeron Dale** — [@aeron-j](https://github.com/aeron-j)
